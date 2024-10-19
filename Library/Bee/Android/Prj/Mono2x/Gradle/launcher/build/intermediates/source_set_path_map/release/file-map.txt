@@ -1,0 +1,10 @@
+com.DefaultCompany.BestGameEver.launcher-pngs-0 C:\UnityProjects\Project 1\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\pngs\release
+com.DefaultCompany.BestGameEver.launcher-resValues-1 C:\UnityProjects\Project 1\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\resValues\release
+com.DefaultCompany.BestGameEver.launcher-rs-2 C:\UnityProjects\Project 1\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\rs\release
+com.DefaultCompany.BestGameEver.launcher-mergeReleaseResources-3 C:\UnityProjects\Project 1\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.DefaultCompany.BestGameEver.launcher-mergeReleaseResources-4 C:\UnityProjects\Project 1\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.DefaultCompany.BestGameEver.launcher-merged_res-5 C:\UnityProjects\Project 1\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\merged_res\release
+com.DefaultCompany.BestGameEver.launcher-main-6 C:\UnityProjects\Project 1\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\res
+com.DefaultCompany.BestGameEver.launcher-release-7 C:\UnityProjects\Project 1\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\release\res
+com.DefaultCompany.BestGameEver.launcher-packaged_res-8 C:\UnityProjects\Project 1\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\packaged_res\release
+com.DefaultCompany.BestGameEver.launcher-packaged_res-9 C:\UnityProjects\Project 1\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\packaged_res\release
